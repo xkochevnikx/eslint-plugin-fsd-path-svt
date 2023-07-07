@@ -1,6 +1,6 @@
 {
-    "name": "eslint-plugin-fsd-path",
-    "version": "0.0.2",
+    "name": "eslint-plugin-fsd-path-svt",
+    "version": "0.0.5",
     "description": "plugin for production project",
     "keywords": [
         "eslint",
